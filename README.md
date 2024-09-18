@@ -3,7 +3,6 @@
 一名前端开发者，掌握基本的前端技能，还喜欢玩玩 go 
 
 ### 🚩最近计划
-- [ ] 完成 [前端森林](https://github.com/chenmijiang/awesome-sites) 的改造
 
 <!--
 **chenmijiang/chenmijiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
