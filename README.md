@@ -1,10 +1,3 @@
-<!-- Typing SVG Header -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+chenmijiang;Full-Stack+Developer;TypeScript+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
-</a>
-
----
-
 ## 🚀 About Me
 
 Passionate full-stack developer crafting scalable web applications with modern technologies. I love exploring the intersection of frontend elegance and backend robustness, with a keen interest in emerging tech like Rust, Docker, and AI.
@@ -49,18 +42,7 @@ Passionate full-stack developer crafting scalable web applications with modern t
 
 [![trophy](https://trophy.ryglcloud.net/?username=chenmijiang&theme=dracula&column=3&margin-w=15&margin-h=15)](https://github.com/chenmijiang)
 
-**GitHub Streak**
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=chenmijiang&theme=dark&hide_border=true)
-
 </div>
-
----
-
-## 🔗 Connect With Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/chenmijiang)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jack.chenyuana@gmail.com)
 
 ---
 
