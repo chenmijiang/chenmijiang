@@ -36,6 +36,7 @@ Passionate full-stack developer crafting scalable web applications with modern t
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Zed](https://img.shields.io/badge/Zed-0B0E0F?style=flat-square&logo=zed&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-131415?style=flat-square&logo=anthropic&logoColor=white)
 ![OpenCode](https://img.shields.io/badge/OpenCode-1F6FEB?style=flat-square&logo=code&logoColor=white)
@@ -46,16 +47,10 @@ Passionate full-stack developer crafting scalable web applications with modern t
 
 <div align="center">
 
-![Metrics](https://metrics.lecoq.io/chenmijiang?template=classic&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&achievements=1&followup=1&theme=dark)
+[![trophy](https://trophy.ryglcloud.net/?username=chenmijiang&theme=dracula&column=3&margin-w=15&margin-h=15)](https://github.com/chenmijiang)
 
-</div>
+**GitHub Streak**
 
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=chenmijiang&theme=dark&hide_border=true)
 
 </div>
